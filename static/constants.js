@@ -1,0 +1,1 @@
+exports.JWT_SECRET = "1U*%6AxBp8#sN9!qCf3@eVtGjJwMzRt8";
